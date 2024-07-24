@@ -20,9 +20,9 @@ The Sales Insights Dashboard provides a comprehensive analysis of key sales metr
 
 ### Visualizations
 - **Monthly Sales Trend:** A line chart displaying the sales revenue trend over time.
-- **Sales by Region:** A heatmap showing sales performance across different regions.
+- **Sales by Region:** A bar chart showing sales performance across different regions.
 - **Top Products by Sales:** A bar chart ranking products based on sales revenue.
-- **Sales by Product Category:** A pie chart illustrating the distribution of sales across various product categories.
+- **Sales by Product Category:** A bar chart illustrating the distribution of sales across various product categories.
 - **Customer Demographics:** A bar chart showing the distribution of customers by age group and gender.
 - **Return Rate Analysis:** A donut chart illustrating the return rate segmented by product categories.
 
